@@ -2,6 +2,15 @@
    "challenges": [
     { "id": 1, "title": "Headstand" },
     { "id": 2, "title": "Handstand" },
-    { "id": 3, "title": "10Situps" }
+    { "id": 3, "title": "10Situps" },
+    { "id": 4, "title": "Split" },
+    { "id": 5, "title": "Yabadai" },
+    { "id": 6, "title": "Falafel" },
+    { "id": 7, "title": "Headstand" },
+    { "id": 8, "title": "Fokusmarokus" },
+    { "id": 9, "title": "15situps" },
+    { "id": 10, "title": "Abrakadabra" },
+    { "id": 11, "title": "200jumps" },
+    { "id": 12, "title": "sleep" },
      ]
 }
