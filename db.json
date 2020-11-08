@@ -1,5 +1,5 @@
 {
-   "challenges": [
+   "challenges": {
        "challenges": [
        { "id": 1, "title": "Headstand" },
        { "id": 2, "title": "Handstand" },
@@ -14,5 +14,5 @@
        { "id": 11, "title": "200jumps" },
        { "id": 12, "title": "sleep" }
      ]
-   ]
+   }
 }
